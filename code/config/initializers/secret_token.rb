@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-PftSendMail::Application.config.secret_token = '1ce7526ea161f6eaaac161a51f5ed5f0569e2381148cbedfc244aaa75e93d2cc46f836b69b167927e0fa0186b9bbb9403b9b93c195c848b04e18144ef0ceac08'
+PftSendMail::Application.config.secret_token = '1b1dfdc234d19c2491041369ffdeb03376b7146fffb19d8f2b4ad680831a28ddf3b8938a1a49a12c44c7820577a888330033a9505ac506567eeb4e12a4a31bb4'
