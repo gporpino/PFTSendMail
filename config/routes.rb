@@ -1,4 +1,10 @@
 PftSendMail::Application.routes.draw do
+  
+  resources :students
+
+  root :to => "students#index"
+
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
